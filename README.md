@@ -56,11 +56,7 @@ Enter location lost or last seen: Waiting area
 Item registered successfully!
 ```
 
-## Changes since the original portfolio
 
-- Corrected the newest-first display order.
-- Rejected duplicate and empty item names to keep the collections consistent.
-- Clarified the location prompt for reporting a lost item.
 
 ## Limitations and future improvements
 
